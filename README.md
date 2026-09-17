@@ -2,7 +2,7 @@
 ### How to Use:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/cachyos-setup.git
+git clone https://github.com/Tusharvijaypadir/Low-battery-setup.git
 cd cachyos-setup
 sudo bash install
 ```
